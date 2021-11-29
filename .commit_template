@@ -1,0 +1,16 @@
+# === format ===
+# :prefix: related_ticket issue-title
+
+# ==== example ====
+# :add: CALE_2021-70 認証機能の実装
+# :fix: BG-128 Thanksメッセージは２通ではなく１通
+
+# ==== prefix ====
+# 機能追加 :add:
+# バグ修正 :fix:
+# リファクタリング  :rfct:
+# テストの追加 :tst:
+# ドキュメント追加 :dcs:
+# パフォーマンス改善 :imp:
+# バージョンアップ :upg:
+
